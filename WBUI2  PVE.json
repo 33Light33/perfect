@@ -1,0 +1,61 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 1,
+            "IconURL": "https://i.imgur.com/AV3P8FY.jpg",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 2,
+                    "buttontext": "<TextStyle.Red> Welcome </>",
+                    "title1": "<TextStyle.Blue> Welcome On Light's servers </>",
+				    "title2": "<TextStyle.Blue> Settings </>",
+                    "text1": "Hi, all Community has been a close-knit community of gamers since January 2016. 1 Owner 2 Admins to help you ingame and on discord. System ticket on discord.\n\n\n\n          1. F1 to open this menu\n\n          2.Shop & Kits in F2, for console players write /shop.\n\n          3.F3 to report players.\n\n        4.Link Donate if you want support Light's servers and win points\n\n          5.Shift+F8 To find Wild or Tamed Dinos",
+				    "text2": "          ● XP: x10, Harvest: x100, Taming: x20\n\n          ● Breed x10, Gestation: x10, Egg Hatch: x10\n\n          ● Player Level: 135\n\n          ● Level Wild 200 - After Tame 300 - After LVL up 388\n\n          ● Keep all your Stuff on Death with (Death Inventory Keeper)",
+                    "imageurl": "https://images5.alphacoders.com/740/740577.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red> Rules </>",
+                    "title1": "<TextStyle.Blue> Rules </>",
+                    "text1": "\n\n\n\n          1. Do not undermesh, glitch, exploit, insults, racism, abuse or cheat\n\n          2. You are not allowed to spam foundations to excess. (This applies to all structures)\n\n          3. Forbidden to build or block artefact caves (for PVE servers). Rip all your structures !!!",
+                    "imageurl": "https://i.imgur.com/YqOg6z4.jpg"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red> Donation </>",
+                    "title1": "<TextStyle.Blue> Donation </>",
+                    "text1": "\n     By default, you start with 0 points and you have 30 points every 20 minutes.\n\n     Vip Stone    : 05 euros  1000 points 35 points every 20 min for 2 weeks. VIP on discord. Icon Vip ingame.\n\n     Vip Bronze   : 10 euros  3000 points 40 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\n\n     Vip Silver   : 20 euros  8000 points 45 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\n\n     Vip Gold     : 30 euros 12000 points 50 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\n\n     Vip Platinum : 50 euros 25000 points 60 points every 20 min for 2 month. VIP on discord. Icon Vip ingame.\n\n     Vip God     : 100 euros 50000 points 80 points every 20 min for 3 month. VIP on discord. Icon Vip ingame. Works on all light ASA servers.\n\n\n\n     After a purchase wait 10 sec to get your VIP pack.\n\n     After a wipe you start Automatically with your Vip pack.\n\n     All donations allow to keep the server alive and to buy new plugins.",
+                    "imageurl": "https://i.imgur.com/zDVrnF1.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "<TextStyle.Violet> Discord </>",
+                    "url": "https://discord.gg/ck53jj2EB5"
+                }
+            },
+            {
+                "link2": {
+                    "text": "<TextStyle.Yellow> Donate </>",
+                    "url": "https://light.tip4serv.com/"
+                }
+            }
+        ]
+    }
+}
